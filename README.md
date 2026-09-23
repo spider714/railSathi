@@ -2,7 +2,7 @@
 
 **RailSathi** is a modern, real-time Indian Railways tracking platform built with **Next.js 14**, **MapLibre GL**, **TanStack Query**, and **Google Gemini 3.6 Flash AI**. It offers live train telemetry, vector map visualization, delay analytics, weather intelligence, elevation profiles, and an interactive AI travel assistant in both **English** and **Hindi**.
 
-Developed by **Team JARVIS** (CGIT Raipur).
+Developed by **hamesh** (CGIT Raipur).
 
 ---
 
@@ -48,7 +48,7 @@ Developed by **Team JARVIS** (CGIT Raipur).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tameshkumar57/RailGaadi.git
+   git clone https://github.com/spider714/RailGaadi.git
    cd RailGaadi
    ```
 
