@@ -6,6 +6,12 @@ Developed by **Team JARVIS** (CGIT Raipur).
 
 ---
 
+## 🌐 Live Demo
+
+🌐 **Live Website:** [https://railsathi.netlify.app](https://railsathi.netlify.app) *(or your Netlify/Vercel URL)*
+
+---
+
 ## ✨ Features
 
 - 🛰️ **Live Train Telemetry:** Real-time GPS location tracking, speed monitoring, and ETA predictions via RailRadar API.
@@ -99,7 +105,3 @@ Developed by **Team JARVIS** (CGIT Raipur).
 - `npm run lint` – Runs Next.js ESLint checks.
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License.
