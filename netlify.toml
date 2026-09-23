@@ -1,0 +1,10 @@
+# Netlify Configuration for Next.js (RailSathi)
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+  # Disable Netlify secrets scanner false-positives on NEXT_PUBLIC_ client environment variables
+  SECRETS_SCAN_ENABLED = false
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
